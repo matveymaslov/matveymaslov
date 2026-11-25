@@ -12,9 +12,9 @@ I build **SMA (Self-Mending Automation)**, a personal orchestrator for AI agents
 **[SMA Research](https://github.com/matveymaslov/sma-research)**<br>
 Field notes from building SMA: ideas and numbers, no code.
 
+`2026.11.25` &nbsp; [Seven principles for an AI agent fleet you can actually trust](https://github.com/matveymaslov/sma-research/blob/main/2026-11-25-seven-principles/README.md)<br>
 `2026.11.20` &nbsp; [The model is the unreliable part](https://github.com/matveymaslov/sma-research/blob/main/2026-11-20-the-model-is-the-unreliable-part/README.md)<br>
-`2026.11.16` &nbsp; [Every hole in our agent's guards was the same bug](https://github.com/matveymaslov/sma-research/blob/main/2026-11-16-guards-read-what-runs/README.md)<br>
-`2026.11.05` &nbsp; [How far can an agent's memory search go?](https://github.com/matveymaslov/sma-research/blob/main/2026-11-05-agent-memory-recall/README.md)
+`2026.11.16` &nbsp; [Every hole in our agent's guards was the same bug](https://github.com/matveymaslov/sma-research/blob/main/2026-11-16-guards-read-what-runs/README.md)
 
 **[Agent work graphs](https://github.com/matveymaslov/agent-work-graphs)**<br>
 How to make AI agents autonomous without losing control: the pain of building work graphs, and a 20-question self-check.
